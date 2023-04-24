@@ -1,2 +1,2 @@
 # My-Resume
-Just alittle something about me for everyone to know!
+Just a little something about me for everyone to know!
